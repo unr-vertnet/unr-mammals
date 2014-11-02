@@ -1,0 +1,73 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 24
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-20 ; Times: 1
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "myotis evotis Nevada" ; Times: 1
+	Query: "Macrotus californicus Nevada" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 166 download events in this period)
+Total number of records downloaded: 50 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 48
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 1
+	Date: 2014-10-20 ; Times: 1
+	Date: 2014-10-21 ; Times: 1
+	Date: 2014-10-22 ; Times: 5
+	Date: 2014-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Eptesicus fuscus Nevada" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "dipodomys (ethanol OR alcohol OR fluid OR spirit OR alcoholic OR alc OR al)" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "dipodomys microps (ethanol OR alcohol OR fluid OR spirit OR alcoholic OR alc OR al)" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 18
+Total number of records retrieved from searches: 221
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 250
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 18
+Total number of records retrieved from searches: 221
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 250
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
