@@ -1,0 +1,60 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1084 download events in this period)
+Total number of records downloaded: 114 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 113
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "tamias minimus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 29
+Total number of records retrieved from searches: 381
+Number of download events that retrieved data from the resource: 53
+Total number of records downloaded: 1042
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 32
+Total number of records retrieved from searches: 399
+Number of download events that retrieved data from the resource: 87
+Total number of records downloaded: 1310
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
