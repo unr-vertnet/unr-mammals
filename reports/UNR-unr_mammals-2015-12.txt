@@ -1,0 +1,99 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Marmota flaviventris year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "Plecotus rafinesquii (Virginia) AND (NOT West )" ; Times: 1
+	Query: "family:sciuridae class:mammalia year &gt;= 1961 year &lt;= 1961 month &gt;= 4 month &lt;= 4" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 889 download events in this period)
+Total number of records downloaded: 357
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 66
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-26 ; Times: 6
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-23 ; Times: 8
+	Date: 2015-12-25 ; Times: 17
+	Date: 2015-12-24 ; Times: 18
+	Date: 2015-12-27 ; Times: 5
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-19 ; Times: 3
+	Date: 2015-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "specificepithet:pallidus genus:Microdipodops" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "specificepithet:noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 2
+	Query: "specificepithet:californicus genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:Tadarida" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 3
+	Query: "specificepithet:parvus genus:Perognathus" ; Times: 3
+	Query: "specificepithet:deserti genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:californicus genus:Myotis" ; Times: 2
+	Query: "specificepithet:longimembris genus:Perognathus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 2
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "specificepithet:trowbridgii genus:Sorex" ; Times: 2
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:pallidus genus:Antrozous" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys" ; Times: 2
+	Query: "specificepithet:thysanodes genus:Myotis" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus" ; Times: 1
+	Query: "specificepithet:californicus genus:Microtus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: "specificepithet:californicus genus:Macrotus" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Microdipodops" ; Times: 2
+	Query: "specificepithet:beldingi genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:lepida genus:Neotoma" ; Times: 2
+	Query: "specificepithet:evotis genus:Myotis" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma" ; Times: 2
+	Query: "specificepithet:umbrinus genus:Tamias" ; Times: 1
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "specificepithet:beecheyi genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex" ; Times: 1
+	Query: "specificepithet:latimanus genus:Scapanus" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Perognathus" ; Times: 2
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "specificepithet:variegatus genus:Spermophilus" ; Times: 1
+	Query: "specificepithet:raviventris genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes" ; Times: 1
+	Query: "specificepithet:douglasii genus:Tamiasciurus" ; Times: 2
+	Query: "specificepithet:townsendii genus:Lepus" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx" ; Times: 1
+
+
+End of report.
