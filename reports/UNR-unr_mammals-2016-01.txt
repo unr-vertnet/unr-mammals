@@ -1,0 +1,46 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 1
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus cinereus year &gt;= 2010 year &lt;= 2016" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 507 download events in this period)
+Total number of records downloaded: 48
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-06 ; Times: 2
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+
+
+End of report.
