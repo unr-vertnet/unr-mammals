@@ -1,0 +1,48 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1312 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-06 ; Times: 2
+	Date: 2016-04-05 ; Times: 1
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+
+
+End of report.
