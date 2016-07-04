@@ -1,0 +1,54 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 8
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Portugal ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Marmota marmota 1" ; Times: 2
+	Query: "catalognumber:202 institutioncode:UNR" ; Times: 2
+	Query: "catalognumber:201 institutioncode:UNR" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1052 download events in this period)
+Total number of records downloaded: 122
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-17 ; Times: 2
+	Date: 2016-06-14 ; Times: 1
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "dipodomys microps" ; Times: 2
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Sorex stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
