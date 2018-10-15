@@ -1,0 +1,59 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 101
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:UNR" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1892 download events in this period)
+Total number of records downloaded: 888
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 20
+	Date: 2018-02-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereus genus:Lasiurus" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Peromyscus truei" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "Ammospermophilus leucurus" ; Times: 2
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Microtus californicus" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "class:Mammalia institutioncode:UNR" ; Times: 2
+	Query: "Spermophilus beecheyi" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 2
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Microtus montanus" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+
+
+End of report.
