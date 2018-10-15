@@ -1,0 +1,52 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:leporidae institutioncode:UNR" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1398 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Italy ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus haslength:1" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "specificepithet:speciosus genus:Tamias" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "Microdipodops pallidus" ; Times: 1
+
+
+End of report.
