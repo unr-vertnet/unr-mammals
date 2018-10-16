@@ -1,0 +1,55 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 53
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-03 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 3
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-30 ; Times: 4
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lasiurus stateprovince:&#34;nevada&#34;" ; Times: 3
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 4
+	Query: "genus:Myotis specificepithet:subulatus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1284 download events in this period)
+Total number of records downloaded: 182
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "cricetidae hasmass:1" ; Times: 1
+	Query: "talpidae hasmass:1" ; Times: 1
+	Query: "family:Felidae haslength:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 1
+	Query: "rodentia hasmass:1" ; Times: 2
+
+
+End of report.
