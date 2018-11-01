@@ -1,0 +1,57 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1300 download events in this period)
+Total number of records downloaded: 180
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-22 ; Times: 4
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Myotis" ; Times: 2
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "dipodomys microps" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "Myotis leibii genus:Myotis" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "Corynorhinus" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+
+
+End of report.
