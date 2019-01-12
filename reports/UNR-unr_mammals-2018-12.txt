@@ -1,0 +1,56 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-13 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:TOWNSENDII genus:lepus catalognumber:355" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus institutioncode:UNR hastissue:1" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes county:&#34;Nye&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 809 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: India ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-09 ; Times: 3
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "Dipodomys ordii" ; Times: 2
+	Query: "lynx lynx" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:townsendii genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+
+
+End of report.
