@@ -1,0 +1,66 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-25 ; Times: 6
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vison genus:mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "specificepithet:townsendii genus:tamias institutioncode:UNR" ; Times: 2
+	Query: "specificepithet:quadrimaculatus genus:tamias institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus stateprovince:&#34;Nevada&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias" ; Times: 2
+	Query: "specificepithet:umbrinus genus:tamias institutioncode:UNR" ; Times: 2
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:speciosus genus:tamias institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:panamintinus genus:tamias" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UNR" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 962 download events in this period)
+Total number of records downloaded: 51
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus family:Cricetidae hastissue:1" ; Times: 1
+	Query: "hastissue:1 peromyscus truei" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "specificepithet:Musculus genus:Mus continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "hastissue:1 peromyscus californicus" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:vison genus:mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 3
+	Query: "Plecotus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+
+
+End of report.
