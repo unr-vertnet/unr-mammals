@@ -1,0 +1,57 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 46
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tereticaudus class:mammalia institutioncode:UNR" ; Times: 1
+	Query: "family:Mephitidae collectioncode:Mammals institutioncode:UNR" ; Times: 2
+	Query: "genus:Spilogale institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:obscurus class:mammalia institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:merriami class:mammalia institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:spermophilus institutioncode:UNR" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1263 download events in this period)
+Total number of records downloaded: 38
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-02 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Myotis evotis" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:musculus genus:Mus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 2
+	Query: "Lasiurus cinereus" ; Times: 1
+
+
+End of report.
