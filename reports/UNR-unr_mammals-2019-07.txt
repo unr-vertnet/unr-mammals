@@ -1,0 +1,38 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 2
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Santa Cruz&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 985 download events in this period)
+Total number of records downloaded: 8
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:vagrans genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+
+
+End of report.
