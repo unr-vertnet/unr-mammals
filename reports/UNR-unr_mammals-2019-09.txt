@@ -1,0 +1,62 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 50
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Thailand ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-05 ; Times: 17
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pipistrellus hesperus haslength:1" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "Lasiurus borealis haslength:1" ; Times: 1
+	Query: "order:Chiroptera county:&#34;White Pine&#34;" ; Times: 1
+	Query: "Corynorhinus rafinesquii haslength:1" ; Times: 1
+	Query: "Myotis californicus haslength:1" ; Times: 1
+	Query: "specificepithet:putorius genus:Spilogale hasmass:1 haslength:1" ; Times: 1
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "Macrotus californicus haslength:1" ; Times: 1
+	Query: "Myotis leibii haslength:1" ; Times: 1
+	Query: "Pipistrellus pipistrellus haslength:1" ; Times: 1
+	Query: "Macrotus waterhousii haslength:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale hasmass:1 haslength:1" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "Myotis melanorhinus haslength:1" ; Times: 1
+	Query: "Myotis volans haslength:1" ; Times: 1
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1073 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "specificepithet:latimanus genus:scapanus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:sorex stateprovince:&#34;california&#34;" ; Times: 1
+
+
+End of report.
