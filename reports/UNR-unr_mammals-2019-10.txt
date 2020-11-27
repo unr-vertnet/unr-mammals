@@ -1,0 +1,59 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-24 ; Times: 2
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "longicaudus Phenacomys" ; Times: 1
+	Query: "Reithrodontomys megalotis 2016" ; Times: 1
+	Query: "Zapus princeps 2016" ; Times: 1
+	Query: "Neotoma cinerea 2016" ; Times: 1
+	Query: "specificepithet:raviventris genus:Reithrodontomys hastissue:1" ; Times: 2
+	Query: "Dipodomys ordii 2016" ; Times: 1
+	Query: "Dipodomys ordii 2015" ; Times: 2
+	Query: "Microtus montanus 2016" ; Times: 1
+	Query: "ponderosa Pinus" ; Times: 1
+	Query: "specificepithet:Vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1308 download events in this period)
+Total number of records downloaded: 26
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-21 ; Times: 3
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sorex ornatus" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "genus:Lasiurus hastissue:1" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Microdipodops megacephalus" ; Times: 1
+
+
+End of report.
