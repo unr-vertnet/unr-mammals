@@ -1,0 +1,64 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 431
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-31 ; Times: 4
+	Date: 2020-10-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:panamintinus genus:tamias class:mammalia institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias class:mammalia institutioncode:UNR" ; Times: 1
+	Query: "class:Mammalia year &gt;= 1800 year &lt;= 2015 institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias class:mammalia institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:raviventris genus:Reithrodontomys hassex:1 hasmass:1" ; Times: 2
+	Query: "specificepithet:dorsalis genus:tamias class:mammalia institutioncode:UNR" ; Times: 1
+	Query: "class:Mammalia continent:North America institutioncode:UNR" ; Times: 2
+	Query: "Marmota flaviventris country:&#34;United States&#34; hasmass:1" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UNR" ; Times: 1
+	Query: "specificepithet:quadrimaculatus genus:tamias class:mammalia institutioncode:UNR" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1521 download events in this period)
+Total number of records downloaded: 419
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-28 ; Times: 3
+	Date: 2020-10-31 ; Times: 2
+	Date: 2020-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:UNR" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "Sorex palustris" ; Times: 2
+	Query: "Taxidea taxus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+
+
+End of report.
