@@ -1,0 +1,74 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 14
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Hong Kong ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-26 ; Times: 3
+	Date: 2020-09-19 ; Times: 1
+	Date: 2020-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aplodontia rufa vntype:specimen haslength:1 hastissue:1" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:Aplodontia sex:male hasmass:1 haslength:1" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "specificepithet:vison genus:Mustela continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:raviventris genus:Reithrodontomys hasmass:1" ; Times: 5
+	Query: "genus:Aplodontia hastissue:1" ; Times: 3
+	Query: "specificepithet:raviventris genus:Reithrodontomys hassex:1 haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 976 download events in this period)
+Total number of records downloaded: 37
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "genus:Aplodontia sex:male hasmass:1 haslength:1" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Aplodontia rufa vntype:specimen haslength:1" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "specificepithet:raviventris genus:Reithrodontomys hasmass:1" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "specificepithet:musculus genus:mus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+
+
+End of report.
