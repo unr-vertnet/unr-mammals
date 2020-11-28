@@ -1,0 +1,49 @@
+Report for Institution Code UNR, Resource unr_mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 3
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Spilogale hastissue:1" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "vntype:specimen genus:Spilogale hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 940 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:felidae" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "specificepithet:trowbridgii genus:sorex hastissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+
+
+End of report.
